@@ -90,13 +90,6 @@ npm install
 npm run dev
 ```
 
-## Future Improvements
-
-- SMS Notifications
-- Analytics Dashboard
-- Multi-Currency Support
-- Subscription Spending Reports
-- Frontend Dashboard
 
 ## Author
 
