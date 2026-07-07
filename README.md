@@ -84,7 +84,7 @@ SERVER_URL=
 ## Installation
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Sckultifacter/subscription-tracker.git
 cd subscription-tracker
 npm install
 npm run dev
