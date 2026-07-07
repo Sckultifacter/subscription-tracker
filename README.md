@@ -89,7 +89,13 @@ cd subscription-tracker
 npm install
 npm run dev
 ```
+## Live Demo
 
+Base URL:
+
+https://subscription-tracker-g3z4.onrender.com/
+
+The backend is deployed on Render and connected to MongoDB Atlas, providing a publicly accessible REST API for subscription management, authentication, and automated renewal reminders.
 
 ## Author
 
