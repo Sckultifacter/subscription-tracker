@@ -1,4 +1,4 @@
-# Subscription Tracker API
+# Renewly
 
 A backend application that helps users manage recurring subscriptions, track renewal dates, and receive automated email reminders before payments are due.
 
